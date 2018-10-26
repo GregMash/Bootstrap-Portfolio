@@ -1,3 +1,7 @@
 body {
     background-image: url(../assets/images/real_cf_@2X.png)
 }
+.badge {
+padding: 20px;
+margin: 15px;
+}
