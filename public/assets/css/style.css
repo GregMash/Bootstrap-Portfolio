@@ -1,7 +1,12 @@
 body {
     background-image: url('../images/real_cf_@2X.png');
     margin: auto;
-    padding: 5%;
+    padding: 1%;
     text-align: center;
-};
+}
 
+.nav {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
