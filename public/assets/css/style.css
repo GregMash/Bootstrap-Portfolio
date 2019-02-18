@@ -5,8 +5,6 @@ body {
     text-align: center;
 }
 
-.nav {
-    align-content: center;
-    align-items: center;
-    text-align: center;
+#resume {
+    width: 95%;
 }
