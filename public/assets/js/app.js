@@ -2,5 +2,6 @@ document.getElementById('submitter').onclick = doSomething;
 
 function doSomething() {
     event.preventDefault;
-    console.log('this works');
+    alert('Thanks for contacting me!');
+    location.reload();
 };
