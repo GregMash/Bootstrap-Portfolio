@@ -1,8 +1,8 @@
 {
-  "name": "Portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "## Overview",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,9 +12,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GregMash/Bootstrap-Portfolio/issues"
-  },
-  "homepage": "https://github.com/GregMash/Bootstrap-Portfolio#readme"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
